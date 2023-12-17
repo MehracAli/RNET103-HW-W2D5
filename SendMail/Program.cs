@@ -66,10 +66,10 @@ smtpClient.EnableSsl = true;
 smtpClient.UseDefaultCredentials = false;
 smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
 smtpClient.Credentials = new NetworkCredential("mehrajvm@code.edu.az", "iscxkwonfrjjgegk");
-//smtpClient.Send(mailMessage);
+smtpClient.Send(mailMessage);
 
 
-static async Task Execute()
+/*static async Task Execute()
 {
     var apiKey = "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";
     var client = new SendGridClient(apiKey);
@@ -84,3 +84,4 @@ static async Task Execute()
     Console.WriteLine(response.Body.ReadAsStringAsync());
 }
 await Execute();
+*/
