@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SendMail", "SendMail\SendMail.csproj", "{1EB66FBD-FBB9-47C2-ACE1-C5EF541EFECF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DovrIleForma", "DovrIleForma\DovrIleForma.csproj", "{6280B18E-1438-4DDF-B065-42935D9763AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DovrForma2", "DovrForma2\DovrForma2.csproj", "{9D5BE0C8-22DF-4627-9407-4957EAB53F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB66FBD-FBB9-47C2-ACE1-C5EF541EFECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB66FBD-FBB9-47C2-ACE1-C5EF541EFECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB66FBD-FBB9-47C2-ACE1-C5EF541EFECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB66FBD-FBB9-47C2-ACE1-C5EF541EFECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6280B18E-1438-4DDF-B065-42935D9763AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6280B18E-1438-4DDF-B065-42935D9763AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6280B18E-1438-4DDF-B065-42935D9763AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6280B18E-1438-4DDF-B065-42935D9763AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5BE0C8-22DF-4627-9407-4957EAB53F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5BE0C8-22DF-4627-9407-4957EAB53F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5BE0C8-22DF-4627-9407-4957EAB53F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5BE0C8-22DF-4627-9407-4957EAB53F39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6EC45B-B1AA-4297-AAF4-5EE676B131E4}
+	EndGlobalSection
+EndGlobal
